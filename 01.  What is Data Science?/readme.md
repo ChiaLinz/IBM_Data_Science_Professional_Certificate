@@ -17,3 +17,8 @@
    
 <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222639172-776dc817-d4a7-438b-bc7b-3b29c5d61f3a.png" align="left" height="48" width="48" ></a>   
  ##  Certificates 
+ 
+   
+  <a href="https://www.coursera.org/account/accomplishments/certificate/SYBL7VKHAR94"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/01.%20%20What%20is%20Data%20Science%3F/IBM%20Certificate%2001%20What%20is%20Data%20Science.JPG" align="left" height="550" width="750" ></a>
+  
+   <a href="https://www.credly.com/badges/4e74c864-23f2-4470-9d00-f4a4f91ad093"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/01.%20%20What%20is%20Data%20Science%3F/IBM%20Bedge%2001%20Data%20Science%20Orientation.png" align="right" height="180" width="180" ></a>   
