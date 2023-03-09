@@ -13,6 +13,10 @@
  
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
 ##  Key Skills 
+  * Bokeh
+  * Matplotlib
+  * API
+  * WebScraping
   * Data Science
   * Python Programming
   * Data Analysis
