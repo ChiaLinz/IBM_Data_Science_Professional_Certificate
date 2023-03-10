@@ -1,86 +1,61 @@
+# Databases and SQL for Data Science with Python
 
 
-Week 1:
-
-You can use Data Manipulation Language (DML) statements to read and modify data. 
-
-The search condition of the WHERE clause uses a predicate to refine the search. 
-
-COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT statements. 
-
-INSERT, UPDATE, and DELETE are DML statements for populating and changing tables. 
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/223903588-fd196e4b-c840-495a-9207-b79ca5874349.png" align="left" height="48" width="48" ></a>
+## Summary
+ 　This module covers the fundamentals of databases and SQL, including creating a database instance on the cloud, basic SQL statements, and manipulating tables. Students will also learn how to group and sort data, use string patterns and ranges, and access databases using Python. A final assignment involves working with real-world datasets to write and assess SQL queries. An advanced section covers more complex SQL techniques like views, transactions, stored procedures, and joins, which are useful for data engineers.
 
 
-Week 2: 
-
-A database is a repository of data that provides functionality for adding, modifying, and querying the data. 
-
-SQL is a language used to query or retrieve data from a relational database. 
-
-The Relational Model is the most used data model for databases because it allows for data independence. 
-
-The primary key of a relational table uniquely identifies each tuple or row, preventing duplication of data and providing a way of defining relationships between tables. 
-
-SQL statements fall into two different categories: Data Definition Language (DDL) statements and Data Manipulation Language (DML) statements.
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638742-f320726e-c9e3-4d19-a293-73edda6c7932.png" align="left" height="48" width="48" ></a>
+##  Main Topics 
+  * Analyze data within a database using SQL and Python.
+  * Create a relational database on Cloud and work with tables.
+  * Write SQL statements including SELECT, INSERT, UPDATE, and DELETE.
+  * Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins. 
+ 
 
 
+    [Basics of SQL SELECT Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/01.%20Basics%20of%20SQL%20SELECT%20Statement.sql)
 
-Week 3:
+    [Data Manipulation Language (DML) Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/02.%20INSERT%2C%20UPDATE%2C%20DELETE.sql) 
 
-You can use the WHERE clause to refine your query results.
+    [COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/04.%20CREATE%2C%20ALTER%2C%20TRUNCATE%2C%20DROP.sql)
 
-You can use the wildcard character (%) as a substitute for unknown characters in a pattern.
+    [INSERT, UPDATE, and DELETE are DML statements for populating and changing tables (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20String%20Patterns%2C%20Sorting%20and%20Grouping.sql) 
 
-You can use BETWEEN ... AND ... to specify a range of numbers.
+    [Aggregate, Scalar, String, Date, and Time Functions (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/06.%20Built-in%20functions%20-%20Aggregate%2C%20Scalar%2C%20String%2C%20Date%20and%20Time%20Functions.sql)
 
-You can sort query results into ascending or descending order, using the ORDER BY clause to specify the column to sort on.
+    [Sub-queries and Nested SELECT (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/07.%20Sub-queries%20and%20Nested%20SELECTs.sql)
 
-You can group query results by using the GROUP BY clause. 
+    [Join Multiple Tables (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/08.%20Working%20with%20Multiple%20Tables.sql)
 
+    [Access DB2 on Cloud using Python (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/09.%20Creating%20tables%2C%20inserting%20and%20querying%20Data%20.ipynb)
 
+    [Creating View: Shorthand for a table or column name (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/12.%20Using%20Views.sql)
 
-Week 4: 06~08
+    [Self-join to compare rows within the same table (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/13.%20Joins.sql)
 
-Most databases come with built-in functions that you can use in SQL statements to perform operations on data within the database itself.
+    [Working with a real world data-set using SQL and Python (Question)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/11.%20Practice%20Querying%20Real%20World%20Datasets.ipynb)
 
-When you work with large datasets, you may save time by using built-in functions rather than first retrieving the data into your application and then executing functions on the retrieved data.
+      [Chicago Dataset Hand-on Project](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Chicago%20Assignment.sql)
 
-You can use sub-queries to form more powerful queries than otherwise.
+ <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
+##  Key Skills 
+  * Cloud Databases
+  * Python Programming
+  * Jupyter notebooks
+  * Relational Database Management System (RDBMS)
+  * SQL
+  * Microsoft SQL Server Management Studio
+  * ProstgreSQL
+  * IBM DB2
+  * API
 
-You can use a sub-select expression to evaluate some built-in aggregate functions like the average function. 
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/222639172-776dc817-d4a7-438b-bc7b-3b29c5d61f3a.png" align="left" height="48" width="48" ></a>   
+ ##  Certificates 
+ 
+   
+  <a href="https://www.coursera.org/account/accomplishments/certificate/RRF6NSS2RLKU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IBM%20Certificate%2006%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.JPG" align="left" height="400" ></a>
+  
+   <a href="https://www.credly.com/badges/ec4d7438-943f-49bb-a619-211291605378/public_url"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IBM%20Badge%2006%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.png" align="right" height="400" ></a>   
 
-Derived tables or table expressions are sub-queries where the outer query uses the results of the sub-query as a data source.
-
-Week 5: 09~10
-
-You can access a database from a language like Python by using the appropriate API. Examples include ibm_db API for IBM DB2, psycopg2 for ProstgreSQL, and dblib API for SQL Server.
-
-DB-API is Python's standard API for accessing relational databases. It allows you to write a single program that works with multiple kinds of relational databases instead of writing a separate program for each one.
-
-The DB_API  connect constructor creates a connection to the database and returns a Connection Object, which is then used by the various connection methods.
-
-The connection methods are:
-The cursor() method, which returns a new cursor object using the connection.
-The commit() method, which is used to commit any pending transaction to the database.
-The rollback() method, which causes the database to roll-back to the start of any pending transaction.
-The close() method, which is used to close a database connection. 
-
-You can use SQL Magic commands to execute queries more easily from Jupyter Notebooks. 
-Magic commands have the general format %sql select * from tablename.
-Cell magics start with a double %% (percent) sign and apply to the entire cell.
-Line magics start with a single % (percent) sign and apply to a particular line in a cell.
-
-
-Week 6:  11~13
-
-A join combines the rows from two or more tables based on a relationship between certain columns in these tables.
-
-To combine data from three or more different tables, you simply add new joins to the SQL statement. 
-
-There are two types of table joins: inner join and outer join; and three types of outer joins: left outer join, right outer join, and full outer join. 
-
-The most common type of join is the inner join, which matches the results from two tables and returns only the rows that match.
-
-You can use an alias as shorthand for a table or column name.
-
-You can use a self-join to compare rows within the same table.
