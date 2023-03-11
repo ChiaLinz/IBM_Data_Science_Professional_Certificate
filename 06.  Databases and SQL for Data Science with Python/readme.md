@@ -13,31 +13,32 @@
   * Write SQL statements including SELECT, INSERT, UPDATE, and DELETE.
   * Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins. 
  
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/224516359-7fb04da1-1521-4b0f-95be-e6af5adace81.png" align="left" height="48" width="48" ></a>
+##  Hands-on Project - [Manipulate Chicago Dataset](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Chicago%20Assignment.sql)
+
+  * [Basics of SQL SELECT Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/01.%20Basics%20of%20SQL%20SELECT%20Statement.sql)
+
+  * [Data Manipulation Language (DML) Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/02.%20INSERT%2C%20UPDATE%2C%20DELETE.sql) 
+
+  * [COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/04.%20CREATE%2C%20ALTER%2C%20TRUNCATE%2C%20DROP.sql)
+
+  * [INSERT, UPDATE, and DELETE are DML statements for populating and changing tables (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20String%20Patterns%2C%20Sorting%20and%20Grouping.sql) 
+
+  * [Aggregate, Scalar, String, Date, and Time Functions (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/06.%20Built-in%20functions%20-%20Aggregate%2C%20Scalar%2C%20String%2C%20Date%20and%20Time%20Functions.sql)
+
+  * [Sub-queries and Nested SELECT (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/07.%20Sub-queries%20and%20Nested%20SELECTs.sql)
+
+  * [Join Multiple Tables (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/08.%20Working%20with%20Multiple%20Tables.sql)
+
+  * [Access DB2 on Cloud using Python (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/09.%20Creating%20tables%2C%20inserting%20and%20querying%20Data%20.ipynb)
+
+  * [Creating View: Shorthand for a table or column name (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/12.%20Using%20Views.sql)
+
+  * [Self-join to compare rows within the same table (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/13.%20Joins.sql)
+
+  * [Working with a real world data-set using SQL and Python (Question)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/11.%20Practice%20Querying%20Real%20World%20Datasets.ipynb)
 
 
-    [Basics of SQL SELECT Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/01.%20Basics%20of%20SQL%20SELECT%20Statement.sql)
-
-    [Data Manipulation Language (DML) Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/02.%20INSERT%2C%20UPDATE%2C%20DELETE.sql) 
-
-    [COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT Statement (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/04.%20CREATE%2C%20ALTER%2C%20TRUNCATE%2C%20DROP.sql)
-
-    [INSERT, UPDATE, and DELETE are DML statements for populating and changing tables (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20String%20Patterns%2C%20Sorting%20and%20Grouping.sql) 
-
-    [Aggregate, Scalar, String, Date, and Time Functions (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/06.%20Built-in%20functions%20-%20Aggregate%2C%20Scalar%2C%20String%2C%20Date%20and%20Time%20Functions.sql)
-
-    [Sub-queries and Nested SELECT (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/07.%20Sub-queries%20and%20Nested%20SELECTs.sql)
-
-    [Join Multiple Tables (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/08.%20Working%20with%20Multiple%20Tables.sql)
-
-    [Access DB2 on Cloud using Python (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/09.%20Creating%20tables%2C%20inserting%20and%20querying%20Data%20.ipynb)
-
-    [Creating View: Shorthand for a table or column name (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/12.%20Using%20Views.sql)
-
-    [Self-join to compare rows within the same table (Example)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/13.%20Joins.sql)
-
-    [Working with a real world data-set using SQL and Python (Question)](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/11.%20Practice%20Querying%20Real%20World%20Datasets.ipynb)
-
-      [Chicago Dataset Hand-on Project](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Chicago%20Assignment.sql)
 
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
 ##  Key Skills 
