@@ -85,6 +85,6 @@ _________________
  
    
 
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="850" ></a>   
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="600" ></a>   
 
 
