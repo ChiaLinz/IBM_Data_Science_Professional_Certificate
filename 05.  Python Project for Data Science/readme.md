@@ -12,6 +12,12 @@
   * Apply Python fundamentals, Python data structures, and working with data in Python.
   * Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook.
  
+##  Hands-on Project - [Analyzing Historical StockRevenue Data](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/Project_Analyzing%20Historical%20StockRevenue%20Data%20and%20Building%20a%20Dashboard.ipynb)
+
+ * [Extracting Stock Data Using a Python Library](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/01.%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
+     
+ * [Extracting Stock Data Using Web Scraping](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/02.%20Extracting%20Stock%20Data%20Using%20Web%20Scraping.ipynb)    
+ 
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
 ##  Key Skills 
   * Data Science
