@@ -12,6 +12,15 @@
   * Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
   * Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
+##  Hands-on Project - [Generating Maps with Python](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/Dashboard%20Assignment.ipynb)
+
+ * [Matplotlib and Line Plots.ipynb]()
+ * [Area Plots Histograms and Bar Charts](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/02.%20Area%20Plots%20Histograms%20and%20Bar%20Charts.ipynb)
+ * [Pie Charts, Box Plots, Scatter Plots, and Bubble Plots](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/03.%20Pie%20Charts%2C%20Box%20Plots%2C%20Scatter%20Plots%2C%20and%20Bubble%20Plots.ipynb)
+ * [Waffle Charts, Word Clouds, and Regression Plots](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/04.%20Waffle%20Charts%2C%20Word%20Clouds%2C%20and%20Regression%20Plots.ipynb)
+ * [Dashboard Application in Python](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/5_Peer_Graded_Assignment_Questions.py)
+
+
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
 ##  Key Skills 
   * Dashboards and Charts
