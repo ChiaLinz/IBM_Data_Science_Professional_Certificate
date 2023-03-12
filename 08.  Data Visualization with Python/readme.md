@@ -12,6 +12,7 @@
   * Create advanced visualizations such as waffle charts, word clouds, regression plots, maps with markers, & choropleth maps
   * Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/224516359-7fb04da1-1521-4b0f-95be-e6af5adace81.png" align="left" height="48" width="48" ></a> 
 ##  Hands-on Project - [Generating Maps with Python](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/Dashboard%20Assignment.ipynb)
 
  * [Matplotlib and Line Plots.ipynb]()
