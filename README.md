@@ -36,7 +36,8 @@ _________________
 <a href="url"><img src="https://user-images.githubusercontent.com/93101704/224516359-7fb04da1-1521-4b0f-95be-e6af5adace81.png" align="left" height="48" width="48" ></a> 
 ##  Hands-on Project 
 
-  * [Analyzing Historical StockRevenue Data](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/readme.md)
+  * [Analyzing Historical StockRevenue Data](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/readme.md)  <a href="https://www.credly.com/badges/bac2201a-5510-4898-8a2c-a5c9a46e42ce/public_url"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/IBM%20Badge%2010%20Applied%20Data%20Science%20Capstone.png" align="right" height="230" ></a>   
+
   * [Manipulate Chicago Dataset](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/readme.md)
   * [Prediction of House Sales in King County, USA](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/07.%20%20Data%20Analysis%20with%20Python/readme.md)
   * [Generating Maps with Python](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/readme.md)
@@ -45,7 +46,7 @@ _________________
  
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
 ##  Key Skills 
-  * Data Science
+  * Data Science  
   * Deep Learning
   * Machine Learning
   * Big Data
@@ -53,8 +54,8 @@ _________________
   * Data Mining
   * Github
   * Python Programming
-  * Jupyter Notebooks
-  * Rstudio
+  * Jupyter Notebooks  
+  * Rstudio 
   * Methodology
   * CRISP-DM
   * Data Analysis
@@ -65,11 +66,11 @@ _________________
   
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/224536178-f5286edf-1a04-4a45-87b7-b171e5a31b11.png" align="left" height="48" width="48" ></a>
 ## Libraries
-  * Pandas
-  * Scikit-learn
+  * Pandas   <a href="https://www.credly.com/badges/93b926db-1b63-4a14-90d2-c4aa7c73eaec/public_url"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Badge.png" align="right" height="300" ></a>   
+  * Scikit-learn 
   * SciPy
   * NumPy
-  * Matplotlib
+  * Matplotlib 
   * Bokeh
   * Folium
   * Plotly
@@ -79,11 +80,11 @@ _________________
 
 <a href="url"><img src="https://user-images.githubusercontent.com/93101704/224537188-631ba5ca-e4a2-4862-8c27-68cc9031c3f8.png" align="left" height="48" width="48" ></a>
 ## Instructors
-   * [Rav Ahuja](https://www.coursera.org/instructor/ravahuja)
+   * [Rav Ahuja](https://www.coursera.org/instructor/ravahuja)  
    * [Aije Egwaikhide](https://www.coursera.org/instructor/aije-egwaikhide)
-   * [Romeo Kienzler](https://www.coursera.org/instructor/romeo-kienzler)
+   * [Romeo Kienzler](https://www.coursera.org/instructor/romeo-kienzler)  <a href="https://www.credly.com/badges/976ad512-4811-4455-b0e7-5594c61355ab/public_url"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/07.%20%20Data%20Analysis%20with%20Python/IBM%20Badge%2007%20Data%20Analysis%20with%20Python.png" align="right" height="250" ></a>   
    * [Joseph Santarcangelo](https://www.coursera.org/instructor/~28511493)
-   * [Hima Vasudevan](https://www.coursera.org/instructor/~32077782)
+   * [Hima Vasudevan](https://www.coursera.org/instructor/~32077782) 
    * [SAEED AGHABOZORGI](https://www.coursera.org/instructor/saeed)
    * [Alex Aklson](https://www.coursera.org/instructor/alexaklson)
    * [Svetlana Levitan](https://www.coursera.org/instructor/svetlana-levitan)
@@ -95,6 +96,6 @@ _________________
 <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222639172-776dc817-d4a7-438b-bc7b-3b29c5d61f3a.png" align="left" height="48" width="48" ></a>   
  ##  [Certificates](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/tree/main/11.%20Certificates)
  
-   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="600" ></a>   
+   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="650" ></a>   
 
 
