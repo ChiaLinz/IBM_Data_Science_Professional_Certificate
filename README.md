@@ -35,12 +35,12 @@ _________________
 <a href="url"><img src="https://user-images.githubusercontent.com/93101704/224516359-7fb04da1-1521-4b0f-95be-e6af5adace81.png" align="left" height="48" width="48" ></a> 
 ##  Hands-on Project 
 
-  * [Analyzing Historical StockRevenue Data](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/readme.md)  <a href="https://www.credly.com/badges/bac2201a-5510-4898-8a2c-a5c9a46e42ce/public_url"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/IBM%20Badge%2010%20Applied%20Data%20Science%20Capstone.png" align="right" height="230" ></a>   
+  * [Analyzing Historical StockRevenue Data](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/05.%20%20Python%20Project%20for%20Data%20Science/readme.md#hands-on-project---analyzing-historical-stockrevenue-data)  <a href="https://www.credly.com/badges/bac2201a-5510-4898-8a2c-a5c9a46e42ce/public_url"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/IBM%20Badge%2010%20Applied%20Data%20Science%20Capstone.png" align="right" height="230" ></a>   
 
-  * [Manipulate Chicago Dataset](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/readme.md)
-  * [Prediction of House Sales in King County, USA](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/07.%20%20Data%20Analysis%20with%20Python/readme.md)
-  * [Generating Maps with Python](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/readme.md)
-  * [Space X Falcon 9 Landing Prediction](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/readme.md)
+  * [Manipulate Chicago Dataset](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/06.%20%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/readme.md#hands-on-project---manipulate-chicago-dataset)
+  * [Prediction of House Sales in King County, USA](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/07.%20%20Data%20Analysis%20with%20Python/readme.md#hands-on-project---prediction-of-house-sales-in-king-county-usa)
+  * [Generating Maps with Python](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/08.%20%20Data%20Visualization%20with%20Python/readme.md#hands-on-project---generating-maps-with-python)
+  * [Space X Falcon 9 Landing Prediction](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/10.%20Applied%20Data%20Science%20Capstone/readme.md#hands-on-project---space-x-falcon-9-landing-prediction)
 
  
  <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222638910-af998087-8417-4102-be5b-6cf3c0945f51.png" align="left" height="48" width="48" ></a>
