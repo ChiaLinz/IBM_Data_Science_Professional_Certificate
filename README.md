@@ -3,8 +3,7 @@
 _________________
    <a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20DS.JPG" align="left" height="330" ></a>   
 
-
-### 　&#8194;&#8194;Welcome, this repository hosts a collection of notes and hands-on projects from a course that I completed, which I am sharing with others who may find useful. 
+    
  _________________
 ### 　&#8194;&#8194;Please note that these resources are intended for educational purposes only. <br />
  _________________
