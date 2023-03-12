@@ -1,7 +1,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/ChiaLinz/IBM_Data_Science_Professional_Certificate.svg?cache=remove)
 ![GitHub language count](https://img.shields.io/github/languages/count/ChiaLinz/IBM_Data_Science_Professional_Certificate?style=flat)
 _________________
-   <a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20DS.JPG" align="left" height="330" ></a>   
+   <a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20DS.JPG" align="center" height="300" ></a>   
 
     
  _________________
@@ -95,6 +95,6 @@ _________________
 <a href="url"><img src="https://user-images.githubusercontent.com/93101704/222639172-776dc817-d4a7-438b-bc7b-3b29c5d61f3a.png" align="left" height="48" width="48" ></a>   
  ##  [Certificates](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/tree/main/11.%20Certificates)
  
-   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="650" ></a>   
+   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="center" height="650" ></a>   
 
 
