@@ -1,15 +1,12 @@
 ![ViewCount](https://views.whatilearened.today/views/github/ChiaLinz/IBM_Data_Science_Professional_Certificate.svg?cache=remove)
 ![GitHub language count](https://img.shields.io/github/languages/count/ChiaLinz/IBM_Data_Science_Professional_Certificate?style=flat)
 _________________
-   <a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20DS.JPG" align="left" height="300" ></a>   
+   <a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20DS.JPG" align="left" height="330" ></a>   
 
 
-
-
-
-
-
-### 　&#8194;&#8194;Welcome, this repository hosts a collection of notes and hands-on projects from a course that I completed, which I am sharing with others who may find useful. Please note that these resources are intended for educational purposes only. 
+### 　&#8194;&#8194;Welcome, this repository hosts a collection of notes and hands-on projects from a course that I completed, which I am sharing with others who may find useful. 
+ _________________
+### 　&#8194;&#8194;Please note that these resources are intended for educational purposes only. <br />
  _________________
 
   
@@ -80,11 +77,24 @@ _________________
   * Plotnine(ggplot)
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/93101704/222639172-776dc817-d4a7-438b-bc7b-3b29c5d61f3a.png" align="left" height="48" width="48" ></a>   
- ##  Certificates 
- 
-   
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/224537188-631ba5ca-e4a2-4862-8c27-68cc9031c3f8.png" align="left" height="48" width="48" ></a>
+## Instructors
+   * [Rav Ahuja](https://www.coursera.org/instructor/ravahuja)
+   * [Aije Egwaikhide](https://www.coursera.org/instructor/aije-egwaikhide)
+   * [Romeo Kienzler](https://www.coursera.org/instructor/romeo-kienzler)
+   * [Joseph Santarcangelo](https://www.coursera.org/instructor/~28511493)
+   * [Hima Vasudevan](https://www.coursera.org/instructor/~32077782)
+   * [SAEED AGHABOZORGI](https://www.coursera.org/instructor/saeed)
+   * [Alex Aklson](https://www.coursera.org/instructor/alexaklson)
+   * [Svetlana Levitan](https://www.coursera.org/instructor/svetlana-levitan)
+   * [Polong Lin](https://www.coursera.org/instructor/polong-lin)
+   * [Azim Hirjani](https://www.coursera.org/instructor/~48839382)
+   * [Saishruthi Swaminathan](https://www.coursera.org/instructor/saishruthi-tn)
+   * [Yan Luo](https://www.coursera.org/instructor/yanluo)
 
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="600" ></a>   
+<a href="url"><img src="https://user-images.githubusercontent.com/93101704/222639172-776dc817-d4a7-438b-bc7b-3b29c5d61f3a.png" align="left" height="48" width="48" ></a>   
+ ##  [Certificates](https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/tree/main/11.%20Certificates)
+ 
+   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GD7QUZVBAWNU"><img src="https://github.com/ChiaLinz/IBM_Data_Science_Professional_Certificate/blob/main/11.%20Certificates/IBM%20Data%20Science%20Certificate.JPG" align="left" height="600" ></a>   
 
 
